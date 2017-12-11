@@ -1,4 +1,4 @@
-# Rc-Datetime-Picker
+# MD-Datetime-Picker (AllenWooooo)
 
 Rc-Datetime-Picker is a react component for datetime picker by [Moment.js].
 
